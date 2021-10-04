@@ -53,7 +53,7 @@ jQuery(function () {
             email2:$("#email2").val(),
             password2:$("#password2").val(),
             dob:$("#dob").val(),
-            ele:$(".form-check-input:checked").val()
+            role:$(".form-check-input:checked").val()
         };
         $.ajax({
             method:"POST",

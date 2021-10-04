@@ -14,7 +14,7 @@ if (!$conn) {
 $user_name_data =$_POST['fname'];
 //echo $user_name_data;
 $email =$_POST['email2'];
-$user_type =$_POST['ele'];
+$user_type =$_POST['role'];
 $dob =$_POST['dob'];
 $user_password =$_POST['password2'];
 //$user_name_data =$_POST['name'];

@@ -10,6 +10,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   <script src="myscript.js"></script>
+  <script src="login.js"></script>
 </head>
 <body>
     <header>
@@ -78,7 +79,7 @@
         </div>
         <div class="modal-footer">
          
-          <button type="submit" class="btn btn-primary" data-dismiss="modal">Submit</button>  
+          <button type="submit" class="btn btn-primary" id="btnLogin">Submit</button>  
         </div>
       </div>
       

@@ -16,7 +16,7 @@ jQuery(function () {
                         {
                             alert(response);
                             // Use below code to redirect the page 
-                            $(location).prop('href', 'index.php')
+                            $(location).prop('href', 'user_home.php')
 
                         },
                         error: function()
